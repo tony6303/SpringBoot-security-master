@@ -11,7 +11,7 @@ create database pos;
 ## OAuth2.0
 Google , Facebook(인증했던 계정이 만료되서 현재 사용 불가) , Naver , Kakao
 
-## Blog
+## Blog 기능
 회원가입 , 회원정보 수정  
 글 작성 , 수정 , 삭제  
 댓글 작성 ,  삭제
